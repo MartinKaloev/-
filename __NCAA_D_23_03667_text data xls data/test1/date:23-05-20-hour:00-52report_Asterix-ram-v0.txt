@@ -1,0 +1,81 @@
+date:23-05-20-hour:00-52report_Asterix-ram-v0
+longest layer is: 64
+ep: 0, reward per episode: 250.0 actions done: 403 re-run: 0 run time ep: 11.873380661010742 
+ep: 1, reward per episode: 150.0 actions done: 266 re-run: 0 run time ep: 6.967867136001587 
+ep: 2, reward per episode: 200.0 actions done: 300 re-run: 0 run time ep: 7.407303094863892 
+ep: 3, reward per episode: 300.0 actions done: 372 re-run: 0 run time ep: 9.312761783599854 
+ep: 4, reward per episode: 350.0 actions done: 373 re-run: 0 run time ep: 12.129837274551392 
+reward avg counts: 1 where avg rew is: 250.0
+reward max counts: 1 where max rew is: 350.0
+the neurons in hiden layers are: 112
+Total runtime: 57.883132219314575 seconds_ for iteraton: 0
+longest layer is: 128
+ep: 0, reward per episode: 150.0 actions done: 269 re-run: 1 run time ep: 7.451990842819214 
+ep: 1, reward per episode: 200.0 actions done: 355 re-run: 1 run time ep: 10.745351076126099 
+ep: 2, reward per episode: 0.0 actions done: 273 re-run: 1 run time ep: 7.45838189125061 
+ep: 3, reward per episode: 150.0 actions done: 387 re-run: 1 run time ep: 10.484935998916626 
+ep: 4, reward per episode: 100.0 actions done: 299 re-run: 1 run time ep: 11.145083665847778 
+reward avg counts: 0 where avg rew is: 120.0
+reward max counts: 1 where max rew is: 200.0
+the neurons in hiden layers are: 240
+Total runtime: 113.21253657341003 seconds_ for iteraton: 1
+longest layer is: 192
+ep: 0, reward per episode: 200.0 actions done: 501 re-run: 2 run time ep: 19.706640481948853 
+ep: 1, reward per episode: 400.0 actions done: 904 re-run: 2 run time ep: 31.035930156707764 
+ep: 2, reward per episode: 150.0 actions done: 501 re-run: 2 run time ep: 15.583742380142212 
+ep: 3, reward per episode: 200.0 actions done: 539 re-run: 2 run time ep: 16.86615538597107 
+ep: 4, reward per episode: 200.0 actions done: 635 re-run: 2 run time ep: 21.814900159835815 
+reward avg counts: 0 where avg rew is: 230.0
+reward max counts: 1 where max rew is: 400.0
+the neurons in hiden layers are: 372
+Total runtime: 235.11585021018982 seconds_ for iteraton: 2
+longest layer is: 256
+ep: 0, reward per episode: 300.0 actions done: 741 re-run: 3 run time ep: 31.992258071899414 
+ep: 1, reward per episode: 350.0 actions done: 921 re-run: 3 run time ep: 32.292787075042725 
+ep: 2, reward per episode: 350.0 actions done: 681 re-run: 3 run time ep: 24.024410724639893 
+ep: 3, reward per episode: 200.0 actions done: 524 re-run: 3 run time ep: 24.820077657699585 
+ep: 4, reward per episode: 100.0 actions done: 271 re-run: 3 run time ep: 11.039760828018188 
+reward avg counts: 0 where avg rew is: 260.0
+reward max counts: 2 where max rew is: 350.0
+the neurons in hiden layers are: 496
+Total runtime: 375.1916708946228 seconds_ for iteraton: 3
+longest layer is: 320
+ep: 0, reward per episode: 350.0 actions done: 500 re-run: 4 run time ep: 22.989398956298828 
+ep: 1, reward per episode: 400.0 actions done: 484 re-run: 4 run time ep: 23.447107791900635 
+ep: 2, reward per episode: 250.0 actions done: 406 re-run: 4 run time ep: 17.550923585891724 
+ep: 3, reward per episode: 300.0 actions done: 454 re-run: 4 run time ep: 16.379547357559204 
+ep: 4, reward per episode: 250.0 actions done: 439 re-run: 4 run time ep: 16.580217599868774 
+reward avg counts: 1 where avg rew is: 310.0
+reward max counts: 1 where max rew is: 400.0
+the neurons in hiden layers are: 630
+Total runtime: 485.07522988319397 seconds_ for iteraton: 4
+longest layer is: 384
+ep: 0, reward per episode: 100.0 actions done: 279 re-run: 5 run time ep: 10.022210121154785 
+ep: 1, reward per episode: 200.0 actions done: 344 re-run: 5 run time ep: 12.16317081451416 
+ep: 2, reward per episode: 550.0 actions done: 576 re-run: 5 run time ep: 21.432835340499878 
+ep: 3, reward per episode: 150.0 actions done: 304 re-run: 5 run time ep: 11.06897497177124 
+ep: 4, reward per episode: 250.0 actions done: 345 re-run: 5 run time ep: 12.93671178817749 
+reward avg counts: 1 where avg rew is: 250.0
+reward max counts: 1 where max rew is: 550.0
+the neurons in hiden layers are: 756
+Total runtime: 562.2270967960358 seconds_ for iteraton: 5
+longest layer is: 448
+ep: 0, reward per episode: 150.0 actions done: 307 re-run: 6 run time ep: 11.757956266403198 
+ep: 1, reward per episode: 400.0 actions done: 536 re-run: 6 run time ep: 20.55518913269043 
+ep: 2, reward per episode: 150.0 actions done: 318 re-run: 6 run time ep: 12.52478575706482 
+ep: 3, reward per episode: 100.0 actions done: 238 re-run: 6 run time ep: 9.86662483215332 
+ep: 4, reward per episode: 250.0 actions done: 304 re-run: 6 run time ep: 11.716733455657959 
+reward avg counts: 0 where avg rew is: 210.0
+reward max counts: 1 where max rew is: 400.0
+the neurons in hiden layers are: 882
+Total runtime: 636.8744966983795 seconds_ for iteraton: 6
+longest layer is: 512
+ep: 0, reward per episode: 100.0 actions done: 262 re-run: 7 run time ep: 13.226688623428345 
+ep: 1, reward per episode: 150.0 actions done: 420 re-run: 7 run time ep: 17.701441287994385 
+ep: 2, reward per episode: 450.0 actions done: 547 re-run: 7 run time ep: 22.52098512649536 
+ep: 3, reward per episode: 300.0 actions done: 460 re-run: 7 run time ep: 17.886531114578247 
+ep: 4, reward per episode: 200.0 actions done: 512 re-run: 7 run time ep: 20.438114404678345 
+reward avg counts: 0 where avg rew is: 240.0
+reward max counts: 1 where max rew is: 450.0
+the neurons in hiden layers are: 1008
+Total runtime: 740.0841088294983 seconds_ for iteraton: 7
